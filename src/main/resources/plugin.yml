@@ -1,0 +1,6 @@
+name: AntiCheatKreis
+version: '${project.version}'
+main: de.rusticprism.anticheatkreis.AntiCheatKreis
+api-version: 1.17
+authors: [ RusticPrism ]
+description: Kreiscraft Anticheat
